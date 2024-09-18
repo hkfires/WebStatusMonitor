@@ -21,11 +21,12 @@ sites:
 
 status-website:
   theme: ocean
-  baseUrl: /WebStatusMonitor
+  cname: webstatus.us.kg
+  # baseUrl: /WebStatusMonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Web Status Monitor
   navbar:
     - title: Status
-      href: /WebStatusMonitor
+      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
