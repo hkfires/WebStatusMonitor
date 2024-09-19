@@ -10,8 +10,10 @@ sites:
     url: $URL_SERV00_3
   - name: Bot-Serv00
     url: $URL_BOT_SERV00
-  - name: Bot-CT8
+  - name: Bot-CT8URL_BOT_HOME
     url: $URL_BOT_CT8
+  - name: Bot-Home
+    url: $URL_BOT_HOME
   - name: Google
     url: https://www.google.com
   - name: Baidu
