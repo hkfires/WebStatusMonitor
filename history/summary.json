@@ -94,18 +94,20 @@
     "url": "$URL_BOT_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1778,
-    "timeDay": 5193,
-    "timeWeek": 1778,
-    "timeMonth": 1778,
-    "timeYear": 1778,
-    "dailyMinutesDown": {}
+    "time": 1632,
+    "timeDay": 2759,
+    "timeWeek": 1632,
+    "timeMonth": 1632,
+    "timeYear": 1632,
+    "dailyMinutesDown": {
+      "2024-09-24": 0
+    }
   },
   {
     "name": "Google",
