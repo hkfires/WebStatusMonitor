@@ -94,19 +94,19 @@
     "url": "$URL_BOT_HOME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-home",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1632,
-    "timeDay": 2759,
-    "timeWeek": 1632,
-    "timeMonth": 1632,
-    "timeYear": 1632,
+    "status": "up",
+    "uptime": "91.20%",
+    "uptimeDay": "54.08%",
+    "uptimeWeek": "91.20%",
+    "uptimeMonth": "91.20%",
+    "uptimeYear": "91.20%",
+    "time": 1516,
+    "timeDay": 1956,
+    "timeWeek": 1516,
+    "timeMonth": 1516,
+    "timeYear": 1516,
     "dailyMinutesDown": {
-      "2024-09-24": 0
+      "2024-09-24": 661
     }
   },
   {
