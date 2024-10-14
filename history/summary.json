@@ -97,9 +97,9 @@
     "url": "$URL_BOT_SERV00",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-serv00",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +108,9 @@
     "timeWeek": 596,
     "timeMonth": 665,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-14": 0
+    }
   },
   {
     "name": "Bot-CT8",
@@ -138,18 +140,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-home",
     "status": "down",
-    "uptime": "81.07%",
+    "uptime": "81.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.86%",
-    "uptimeMonth": "81.07%",
-    "uptimeYear": "81.07%",
+    "uptimeWeek": "38.77%",
+    "uptimeMonth": "81.05%",
+    "uptimeYear": "81.05%",
     "time": 1064,
     "timeDay": 4906,
     "timeWeek": 928,
     "timeMonth": 1064,
     "timeYear": 1064,
     "dailyMinutesDown": {
-      "2024-10-14": 817,
+      "2024-10-14": 827,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
