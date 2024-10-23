@@ -18,6 +18,8 @@ sites:
     url: $URL_CT8
   - name: Bot-CT8
     url: $URL_BOT_CT8
+  - name: Test-Site
+    url: https://lucynana.serv00.net
   - name: Google
     url: https://www.google.com
   - name: Baidu
