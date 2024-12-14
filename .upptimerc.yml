@@ -12,8 +12,6 @@ sites:
     url: $URL_SERV00_4
   - name: Serv00-5
     url: $URL_SERV00_5
-  - name: Bot-Serv00
-    url: $URL_BOT_SERV00
   - name: CT8
     url: $URL_CT8
   - name: Bot-CT8
